@@ -32,8 +32,3 @@ This project presents an in-depth Exploratory Data Analysis (EDA) of Flipkart's 
 - `Flipkart_Customer_Support_EDA.ipynb`
 - `Customer_support_data.csv`
 - `README.md`
-
----
-
-**Author:** Alfiya Simran  
-**License:** MIT
