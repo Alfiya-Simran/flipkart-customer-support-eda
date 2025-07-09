@@ -30,7 +30,7 @@ This project presents an in-depth Exploratory Data Analysis (EDA) of Flipkart's 
 
 ## 📂 Files Included
 - `Flipkart_Customer_Support_EDA.ipynb`
-- `Customer_support_data.csv` (if allowed)
+- `Customer_support_data.csv`
 - `README.md`
 
 ---
